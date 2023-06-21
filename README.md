@@ -91,12 +91,22 @@ _NOTE: Top languages does not indicate my skill level or which language I use th
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
+ 
   <div align=center>
       <img width=390 align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amir067&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
      <img width=390 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=amir067&theme=transparent&border_radius=5" />
   </div>
+  
  <br><br><br><br><br><br><br><br><br>
-   
   [![Amir Sohail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir067&theme=react-dark)](https://github.com/amir067/github-readme-activity-graph)
 </p>
+
+<hr>
+<h2 align="center">🔥 Skyline 🔥</h2>
+<br>
+ <div align=center>
+      <img width=100% align="left" src="https://github.com/amir067/amir067/blob/main/images/skyline.PNG" />
+    </a>
+  </div>
+
