@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zainnaqvi">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amir067">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -85,17 +85,18 @@ _NOTE: Top languages does not indicate my skill level or which language I use th
 
 <p align=center>
   <div align=center>
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zainnaqvi&theme=react&border=61dafb&hide_border=true" alt="amir067" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=amir067&theme=react&border=61dafb&hide_border=true" alt="amir067" />
     </a>
-      <img align="right" width=390 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zainnaqvi&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_border=true" alt="amir067's github stats" />
+      <img align="right" width=390 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amir067&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_border=true" alt="amir067's github stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-      <img width=325 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zainnaqvi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=390 align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amir067&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+     <img width=390 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=amir067&theme=transparent&border_radius=5" />
   </div>
-  <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zainnaqvi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <br><br><br><br><br><br><br><br><br>
+   
+  [![Amir Sohail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir067&theme=react-dark)](https://github.com/amir067/github-readme-activity-graph)
 </p>
